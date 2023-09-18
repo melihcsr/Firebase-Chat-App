@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCM2nHmP2vrq7JmRn_eaucQree0WTnqC3o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>841827442649</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.webground.flashchat</string>
+	<key>PROJECT_ID</key>
+	<string>flash-chat-ios-8e05a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flash-chat-ios-8e05a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:841827442649:ios:a5c1d6229a6e8975f103c8</string>
+</dict>
+</plist>
